@@ -5,17 +5,28 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace api.cvetbenavente.Models
+namespace web.cvetbenavente.Models
 {
     public class Cliente
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
+        public Guid Id { get; set; }
 
+        [Required(ErrorMessage = "O nome é obrigatório")]
         public string Nome { get; set; }
         public string Contacto { get; set; }
+
         public string Morada { get; set; }
+        public string CodPostal { get; set; }
+        public string Localidade { get; set; }
+
         public string Observacoes { get; set; }
+
+        public bool Active { get; set; }
+
+        public DateTime DataCriacao { get; set; }
+        public DateTime? DataEdicao { get; set; }
+        public DateTime? DataDesativacao { get; set; }
     }
 }

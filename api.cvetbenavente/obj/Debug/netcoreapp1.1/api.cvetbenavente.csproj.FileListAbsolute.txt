@@ -1,0 +1,9 @@
+c:\users\pedro\documents\visual studio 2017\Projects\api.cvetbenavente\api.cvetbenavente\bin\Debug\netcoreapp1.1\api.cvetbenavente.deps.json
+c:\users\pedro\documents\visual studio 2017\Projects\api.cvetbenavente\api.cvetbenavente\bin\Debug\netcoreapp1.1\api.cvetbenavente.runtimeconfig.json
+c:\users\pedro\documents\visual studio 2017\Projects\api.cvetbenavente\api.cvetbenavente\bin\Debug\netcoreapp1.1\api.cvetbenavente.runtimeconfig.dev.json
+c:\users\pedro\documents\visual studio 2017\Projects\api.cvetbenavente\api.cvetbenavente\bin\Debug\netcoreapp1.1\api.cvetbenavente.dll
+c:\users\pedro\documents\visual studio 2017\Projects\api.cvetbenavente\api.cvetbenavente\obj\Debug\netcoreapp1.1\api.cvetbenavente.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2017\Projects\api.cvetbenavente\api.cvetbenavente\obj\Debug\netcoreapp1.1\api.cvetbenavente.AssemblyInfo.cs
+c:\users\pedro\documents\visual studio 2017\Projects\api.cvetbenavente\api.cvetbenavente\bin\Debug\netcoreapp1.1\api.cvetbenavente.pdb
+c:\users\pedro\documents\visual studio 2017\Projects\api.cvetbenavente\api.cvetbenavente\obj\Debug\netcoreapp1.1\api.cvetbenavente.dll
+c:\users\pedro\documents\visual studio 2017\Projects\api.cvetbenavente\api.cvetbenavente\obj\Debug\netcoreapp1.1\api.cvetbenavente.pdb
